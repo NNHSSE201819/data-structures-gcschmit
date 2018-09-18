@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95f8d03d-8dc4-4d46-8000-aa6340c8b77a" name="Default Changelist" comment="Default Changelist">
-      <change beforePath="$PROJECT_DIR$/src/PriorityQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PriorityQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="95f8d03d-8dc4-4d46-8000-aa6340c8b77a" name="Default Changelist" comment="Default Changelist" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -255,7 +251,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.24239245" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44381222" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44381222" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Designer" order="6" />
