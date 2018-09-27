@@ -1,5 +1,3 @@
-package Size;
-
 //HIDE
 /**
    A list iterator allows access of a position in a linked list.    

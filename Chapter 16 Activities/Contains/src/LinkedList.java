@@ -1,5 +1,3 @@
-package Contains;
-
 import java.util.NoSuchElementException;
 
 /**

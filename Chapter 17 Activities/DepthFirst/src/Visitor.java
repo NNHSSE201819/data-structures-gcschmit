@@ -1,5 +1,3 @@
-package DepthFirst;
-
 /**
    A visitor whose visit method is called for each
    visited node during a tree traversal.

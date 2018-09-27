@@ -1,5 +1,3 @@
-package Sieve;
-
 import java.util.Scanner;
 
 

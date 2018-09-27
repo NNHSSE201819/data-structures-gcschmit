@@ -1,5 +1,3 @@
-package Size;
-
 import java.util.NoSuchElementException;
 
 /**

@@ -1,5 +1,3 @@
-package Driveway;
-
 import java.util.Stack;
 import java.util.Scanner;
 

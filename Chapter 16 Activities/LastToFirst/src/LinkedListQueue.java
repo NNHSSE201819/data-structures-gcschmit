@@ -1,5 +1,3 @@
-package LastToFirst;
-
 /**
    Add a method lastToFirst to this implementation of a queue.
    The method moves the element at the tail of the queue

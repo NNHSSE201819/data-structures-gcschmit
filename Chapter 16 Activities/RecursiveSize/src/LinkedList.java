@@ -1,5 +1,3 @@
-package RecursiveSize;
-
 import java.util.NoSuchElementException;
 
 /**

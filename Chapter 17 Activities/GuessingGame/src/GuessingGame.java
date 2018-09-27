@@ -1,5 +1,3 @@
-package GuessingGame;
-
 import java.util.Scanner;
 /**
    Below is a renamed and modified version of the DecisionTreeDemo

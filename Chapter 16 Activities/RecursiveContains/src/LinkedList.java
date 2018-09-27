@@ -1,5 +1,3 @@
-package RecursiveContains;
-
 import java.util.NoSuchElementException;
 
 /**

@@ -1,5 +1,3 @@
-package Reverse;
-
 import java.util.NoSuchElementException;
 /**
    A linked list is a sequence of nodes with efficient

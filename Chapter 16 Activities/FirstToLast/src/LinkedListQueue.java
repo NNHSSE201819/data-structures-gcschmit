@@ -1,5 +1,3 @@
-package FirstToLast;
-
 /**
    Add a method firstToLast to this implementation of a queue.
    The method moves the element at the head of the queue to

@@ -1,5 +1,3 @@
-package Gradebook;
-
 import java.util.Scanner;
 ...
 

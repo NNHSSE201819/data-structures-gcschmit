@@ -1,5 +1,3 @@
-package StringLengthMap;
-
 import java.util.*;
 import java.io.*;
 

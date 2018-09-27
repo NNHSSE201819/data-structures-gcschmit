@@ -1,5 +1,3 @@
-package IntegerSplitter;
-
 //HIDE
 public class IntegerSplitterTester
 {

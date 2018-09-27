@@ -1,5 +1,3 @@
-package Visitors;
-
 /**
    Add methods
       void preorder(Visitor v)

@@ -1,5 +1,3 @@
-package DepthFirst;
-
 import java.util.Iterator;
 
 /**

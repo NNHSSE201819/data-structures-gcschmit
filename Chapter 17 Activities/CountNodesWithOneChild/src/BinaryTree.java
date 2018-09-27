@@ -1,5 +1,3 @@
-package CountNodesWithOneChild;
-
 //HIDE
 /**
    A binary tree in which each node has two children.
