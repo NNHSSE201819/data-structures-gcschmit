@@ -14,21 +14,24 @@ public class ListDemo
 
 
         // | in the comments indicates the iterator position
-
+        ListIterator iterator = staff.listIterator();   // |DHRT
+        iterator.next();                                // D|HRT
+        iterator.next();                                // DH|RT
 
         // Add more elements after second element
+        iterator.add("Juliet");                         // DHJ|RT
+        iterator.add("Nina");                           // DHJN|RT
 
-
-        // Remove last traversed element
-
+        // Remove Romeo
+        iterator.next();                                // DHJNR|T
+        iterator.remove();                              // DHJN|T
 
         // Print all elements
-
-        //iterator = staff.listIterator();
-        //while (iterator.hasNext())
+        iterator = staff.listIterator();
+        while (iterator.hasNext())
         {
-            //System.out.print(iterator.next() + " ");
+            System.out.print(iterator.next() + " ");
         }
-        //System.out.println();
+        System.out.println();
     }
 }
